@@ -145,6 +145,15 @@ services:
 
 ---
 
+## Ответ 5
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ae4135d5-e763-4d8e-a534-de6661861703)
+При выполнении этой команды  docker compose up -d, будет запущен файл "compose.yaml", так как команде docker compose up -d передается каталог по умолчанию.
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/6521ec55-289b-4979-9750-a929c9e6536d)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/37a91474-101b-404c-940a-7adc3274def9)
+
+
+
 ### Правила приема
 
 Домашнее задание выполните в файле readme.md в GitHub-репозитории. В личном кабинете отправьте на проверку ссылку на .md-файл в вашем репозитории.
