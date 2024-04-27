@@ -68,6 +68,13 @@ https://hub.docker.com/repository/docker/bezumelll/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+## Ответ 3
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/bf9e4e20-d844-497a-915f-ec30a05e97e5)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/4c4ec9af-84e0-4159-b14e-275755054543)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/cd9c2a2e-2de6-4750-8754-ac212d480a98)
+
+
 ## Задача 4
 
 
