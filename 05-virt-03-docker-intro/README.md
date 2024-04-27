@@ -151,12 +151,6 @@ services:
 При выполнении этой команды  docker compose up -d, будет запущен файл "compose.yaml", так как команде docker compose up -d передается каталог по умолчанию.
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/6521ec55-289b-4979-9750-a929c9e6536d)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/37a91474-101b-404c-940a-7adc3274def9)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/8b4feed6-0971-485f-a9ec-027f37bd6fc9)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/45f8b2a6-6264-4756-8941-5d29113a2bbe)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/92222b0c-c442-426f-86b3-409463fbe1d2)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/2ef8db83-acb8-4427-93ea-7412fb6cf293)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/4f1081e6-583a-4abe-855a-254f59a79bed)
-
 
 
 ### Правила приема
