@@ -158,7 +158,12 @@ services:
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/de3b2018-d8b0-4e21-b2df-0ae51401b102)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/02c82175-42d2-42d1-bfcf-214ac520d606)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/906972fc-71f2-44a5-9490-8257dc304996)
-
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/f6c871e9-1ccd-4ddd-ad15-dd85482bdcf0)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/c7e12179-3346-4ee9-be20-a066f319b21d)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ab80359b-14d5-4ce2-8f04-f208029cc093)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/e5f6578f-e842-4ce6-b934-53d3ab210c0d)
+Предупреждение, которое я получил, указывает на то, что обнаружены "орфанные контейнеры". Это означает, что существуют контейнеры, которые были созданы для сервисов, указанных в файле docker-compose.yml, но эти сервисы были удалены или переименованы в последующих версиях файла compose.
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/0dd9ef2b-dae4-41cc-874f-625604164e91)
 
 
 ### Правила приема
