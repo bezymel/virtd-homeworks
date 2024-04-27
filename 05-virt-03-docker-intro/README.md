@@ -48,6 +48,9 @@ https://hub.docker.com/repository/docker/bezumelll/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+## Ответ 2
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/c8a6b8f1-14fc-4d63-83d5-6a716011df56)
 
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".
