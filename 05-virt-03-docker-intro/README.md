@@ -162,6 +162,7 @@ services:
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/c7e12179-3346-4ee9-be20-a066f319b21d)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ab80359b-14d5-4ce2-8f04-f208029cc093)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/e5f6578f-e842-4ce6-b934-53d3ab210c0d)
+
 Предупреждение, которое я получил, указывает на то, что обнаружены "орфанные контейнеры". Это означает, что существуют контейнеры, которые были созданы для сервисов, указанных в файле docker-compose.yml, но эти сервисы были удалены или переименованы в последующих версиях файла compose.
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/0dd9ef2b-dae4-41cc-874f-625604164e91)
 
