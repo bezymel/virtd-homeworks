@@ -31,7 +31,10 @@ Hey, Netology
 ## Ответ 1
 
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/65322962-b78f-4025-ab64-d2ea2ed18162)
-![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/a0be756a-80ad-41ad-b61c-69f27e48daa1)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/b4d03069-6ec5-493f-9230-2a3010deb6c4)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/cf65e64f-9343-499c-9a34-62cb8d1cb1b4)
+
+https://hub.docker.com/repository/docker/bezumelll/custom-nginx/general
 
 
 ## Задача 2
