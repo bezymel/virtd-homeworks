@@ -154,6 +154,9 @@ services:
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/09136114-7e17-45e4-b7bb-9cbf877e3f44)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/faf421e8-7394-4b62-a330-3f672671bad9)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/590c4cf2-c3dd-4e56-914d-d2fd41c3f081)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/5ffbaac0-708b-4276-9c70-4e69c63e1501)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/de3b2018-d8b0-4e21-b2df-0ae51401b102)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/02c82175-42d2-42d1-bfcf-214ac520d606)
 
 
 
