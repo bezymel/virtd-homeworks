@@ -53,7 +53,7 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/.dockerignore
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ce3bbcbe-ce6b-44c5-a2ce-44163309adab)
 
 
-## Задача 3
+## Задача 2
 1. Изучите файл "proxy.yaml"
 2. Создайте в репозитории с проектом файл ```compose.yaml```. С помощью директивы "include" подключите к нему файл "proxy.yaml".
 3. Опишите в файле ```compose.yaml``` следующие сервисы: 
@@ -69,7 +69,7 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/.dockerignore
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
-## Ответ 3
+## Ответ 2
 
 https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
 
@@ -78,7 +78,7 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/14698a40-23a8-4b37-8d33-cddf536ba61c)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/3631b126-55a3-4d0d-a374-7117f9b22712)
 
-## Задача 4
+## Задача 3
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
 2. Подключитесь к Вм по ssh и установите docker.
 3. Напишите bash-скрипт, который скачает ваш fork-репозиторий в каталог /opt и запустит проект целиком.
@@ -86,22 +86,21 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 
-## Ответ 4
+## Ответ 3
 
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/9be81647-87c7-4e80-a21d-b08a2c1b8f68)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/d4492f53-17ef-4573-9c17-b93b1e634215)
 
 [https://github.com/bezymel/shvirtd-example-python](https://github.com/bezymel/shvirtd-example-python)
 
-## Задача 6
+## Задача 4
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
-
-## Ответ 6
-
-## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
 
-## Ответ 6.1
+## Ответ 4
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/fb67f13e-dd09-4a67-b439-fd51636d9c77)
+
 
