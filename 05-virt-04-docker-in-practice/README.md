@@ -25,8 +25,12 @@ See 'snap info docker' for additional versions.
 В случае наличия установленного в системе ```docker-compose``` - удалите его.  
 2. Убедитесь что у вас УСТАНОВЛЕН ```docker compose```(без тире) версии не менее v2.24.X, для это выполните команду ```docker compose version```  
 ###  **Своё решение к задачам оформите в вашем GitHub репозитории!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-
 ---
+
+## Ответ 0
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/a5d430c6-b07e-4af7-874a-2574de74dcdf)
+
 
 ## Задача 1
 1. Сделайте в своем github пространстве fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```.   
@@ -37,6 +41,15 @@ See 'snap info docker' for additional versions.
 ### ВНИМАНИЕ!
 !!! В процессе последующего выполнения ДЗ НЕ изменяйте содержимое файлов в fork-репозитории! Ваша задача ДОБАВИТЬ 5 файлов: ```Dockerfile.python```, ```compose.yaml```, ```.gitignore```, ```.dockerignore```,```bash-скрипт```. Если вам понадобилось внести иные изменения в проект - вы что-то делаете неверно!
 ---
+
+## Ответ 1
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/9e64a2a4-1322-4c41-a982-772f2475dc92)
+https://github.com/bezymel/shvirtd-example-python/blob/main/Dockerfile.python
+https://github.com/bezymel/shvirtd-example-python/blob/main/.dockerignore
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ce3bbcbe-ce6b-44c5-a2ce-44163309adab)
+
+
 
 ## Задача 2 (*)
 1. Создайте в yandex cloud container registry с именем "test" с помощью "yc tool" . [Инструкция](https://cloud.yandex.ru/ru/docs/container-registry/quickstart/?from=int-console-help)
