@@ -45,8 +45,11 @@ See 'snap info docker' for additional versions.
 ## Ответ 1
 
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/9e64a2a4-1322-4c41-a982-772f2475dc92)
+
 https://github.com/bezymel/shvirtd-example-python/blob/main/Dockerfile.python
+
 https://github.com/bezymel/shvirtd-example-python/blob/main/.dockerignore
+
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/ce3bbcbe-ce6b-44c5-a2ce-44163309adab)
 
 
