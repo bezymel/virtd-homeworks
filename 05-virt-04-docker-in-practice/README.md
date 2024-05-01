@@ -76,8 +76,7 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/a237a6fa-9df9-4d3d-9d43-dc3ea7fc27ad)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/25409d04-e764-4e8d-baee-5c99f71e0970)
 ![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/14698a40-23a8-4b37-8d33-cddf536ba61c)
-
-
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/3631b126-55a3-4d0d-a374-7117f9b22712)
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
