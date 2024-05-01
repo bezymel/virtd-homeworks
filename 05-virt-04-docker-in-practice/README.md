@@ -71,6 +71,10 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/.dockerignore
 
 ## Ответ 3
 
+https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
+
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/832916cb-6f30-4aaa-9ed4-472c95005c1e)
+
 
 
 ## Задача 4
