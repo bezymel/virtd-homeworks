@@ -88,6 +88,11 @@ https://github.com/bezymel/shvirtd-example-python/blob/main/compose.yaml
 
 ## Ответ 4
 
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/9be81647-87c7-4e80-a21d-b08a2c1b8f68)
+![image](https://github.com/bezymel/virtd-homeworks/assets/129361495/d4492f53-17ef-4573-9c17-b93b1e634215)
+
+[https://github.com/bezymel/shvirtd-example-python](https://github.com/bezymel/shvirtd-example-python)
+
 ## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
